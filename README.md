@@ -17,6 +17,8 @@ Bar chart race is a python package that helps to create animated visualization o
 
 
 
+https://user-images.githubusercontent.com/94731013/166192168-33bd5a61-641a-4db0-a74a-a821da26c55d.mp4
+
 
 ## Authors
 
