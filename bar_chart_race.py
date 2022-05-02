@@ -1,6 +1,6 @@
 import pandas as pd
 import bar_chart_race as bcr
-df = pd.read_csv("https://raw.githubusercontent.com/dexplo/bar_chart_race/master/data/urban_pop.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/RanitRCS/Bar_Chart_Race/main/sample_csv/urban_pop.csv")
 df.head()
 df = df.set_index('year')
 df.head()
